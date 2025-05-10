@@ -74,20 +74,7 @@ const Index = () => {
             <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-6">
               AI-powered blood test analysis for early disease detection and health monitoring
             </p>
-            <div className="flex justify-center gap-4">
-              <div className="bg-white p-4 rounded-lg shadow-sm text-center w-32">
-                <span className="block text-2xl font-bold text-blood-teal">5</span>
-                <span className="text-sm text-gray-500">Diseases</span>
-              </div>
-              <div className="bg-white p-4 rounded-lg shadow-sm text-center w-32">
-                <span className="block text-2xl font-bold text-blood-teal">98%</span>
-                <span className="text-sm text-gray-500">Accuracy</span>
-              </div>
-              <div className="bg-white p-4 rounded-lg shadow-sm text-center w-32">
-                <span className="block text-2xl font-bold text-blood-teal">10k+</span>
-                <span className="text-sm text-gray-500">Reports</span>
-              </div>
-            </div>
+            
           </section>
         )}
         
